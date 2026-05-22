@@ -1,0 +1,25 @@
+<svg width="320" height="520" viewBox="0 0 320 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">BetWinner mobile app preview</title>
+  <rect x="30" y="8" width="260" height="504" rx="38" fill="#0B0B0B"/>
+  <rect x="42" y="22" width="236" height="476" rx="30" fill="#003333"/>
+  <rect x="120" y="34" width="80" height="7" rx="3.5" fill="#FFFFFF" opacity=".28"/>
+  <rect x="58" y="62" width="204" height="54" rx="18" fill="#0B0B0B"/>
+  <text x="76" y="95" fill="#FFCF00" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="900">BET</text>
+  <text x="122" y="95" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="900">WINNER</text>
+  <rect x="58" y="138" width="204" height="92" rx="20" fill="#0B0B0B" opacity=".72"/>
+  <circle cx="94" cy="184" r="26" fill="#FFCF00" opacity=".18"/>
+  <path d="M94 162 99.8 177.6 116 178.3 103.2 188.2 107.4 204 94 195.1 80.6 204 84.8 188.2 72 178.3 88.2 177.6 94 162Z" fill="#FFCF00"/>
+  <text x="136" y="176" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800">Football</text>
+  <text x="136" y="201" fill="#FFFFFF" opacity=".72" font-family="Arial, Helvetica, sans-serif" font-size="13">Live events access</text>
+  <rect x="58" y="250" width="204" height="46" rx="14" fill="#0B0B0B" opacity=".62"/>
+  <rect x="74" y="267" width="86" height="12" rx="6" fill="#FFFFFF" opacity=".82"/>
+  <rect x="184" y="265" width="54" height="16" rx="8" fill="#FFCF00"/>
+  <rect x="58" y="310" width="204" height="46" rx="14" fill="#0B0B0B" opacity=".62"/>
+  <rect x="74" y="327" width="106" height="12" rx="6" fill="#FFFFFF" opacity=".82"/>
+  <rect x="199" y="325" width="39" height="16" rx="8" fill="#FFCF00"/>
+  <rect x="58" y="370" width="204" height="46" rx="14" fill="#0B0B0B" opacity=".62"/>
+  <rect x="74" y="387" width="94" height="12" rx="6" fill="#FFFFFF" opacity=".82"/>
+  <rect x="192" y="385" width="46" height="16" rx="8" fill="#FFCF00"/>
+  <rect x="58" y="442" width="204" height="34" rx="17" fill="#FFCF00"/>
+  <text x="112" y="464" fill="#0B0B0B" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="900">Open App</text>
+</svg>
